@@ -1,0 +1,20 @@
+new_emails = [
+    "Free money, click now!",
+    "Let's catch up for coffee tomorrow.",
+    "URGENT: Your account has been compromised!",
+    "Lunch at 1 PM today?",
+    "Get 50% off on all items. Limited time only!",
+    "Can you help me with the assignment?",
+    "You've won a vacation to the Bahamas!",
+    "Reminder: Doctor's appointment at 4 PM",
+    "Click here to unlock your exclusive offer.",
+    "Meeting rescheduled to 2 PM. Please confirm.",
+    "Act now to get a free subscription!",
+    "How was your weekend?",
+    "This is not spam, just a test email :)",
+    "Final notice! Your car warranty is about to expire.",
+    "Join us for a birthday party this Saturday!",
+    "Congratulations! You've been selected for a free reward!",
+    "Let's finish the project this week.",
+    "Exclusive deal! Buy one, get one free!"
+]
